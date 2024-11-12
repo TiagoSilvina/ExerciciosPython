@@ -1,0 +1,2 @@
+# ExerciciosPython
+Exercícios das aulas
